@@ -1,3 +1,7 @@
+Join our [discord](https://discord.gg/stozu) or submit an issue (or a pull request fixing it!)
+
+[![Stozu](https://i.imgur.com/P1m0hoi.png)](https://stozu.net/)
+
 > **Calculating Ram**:
 
 When it comes to calculating the amount of ram you need for your Minecraft server, what is perhaps now one of the most important factors is the version that your Minecraft server is going to run on. More later versions of Minecraft are much more ram-intensive and this is outlined in the below charts we have created for you. Keep in mind, mods are usually more resource-intensive than plugins and you should therefore account for more ram. Regardless of version, modded servers should not run below 3-5 GB of ram and at least 9-10 GB of ram for 1.18 modded servers or versions closer to the latest versions of Minecraft Java.
