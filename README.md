@@ -42,9 +42,10 @@ Not following these recommendations could put you at risk of experiencing some l
 We will go over some general recommendations for BungeeCord as well as upgrading/downgrading ram!
 
 - **BungeeCord:**
+- 
 | <span style="color:white">RAM</span> | <span style="color:white">PLAYERS</span> | <span style="color:white">PLUGINS</span> |
 | ------ | ------ | ------ |
-| 0.5 to 1 GB | Up to 300+ | Up to 10 |
+| 0.5 - 1 GB | Up to 300+ | Up to 10 |
 | 2 GB | Up to 500+ | Up to 20 |
 | 3+ GB | Up to 500+ | Up to 30 |
 
